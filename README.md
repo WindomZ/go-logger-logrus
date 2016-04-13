@@ -8,8 +8,6 @@ Base on [Sirupsen/logrus](https://github.com/Sirupsen/logrus)
 
 * Developing...
 
-# Getting Started
-
 ## Installation
 
 ```
