@@ -16,6 +16,9 @@ go get -u github.com/WindomZ/go-logger-logrus
 
 ## TODO
 
+* Usage and demo
+* go test
+
 ## LICENSE
 
 MIT(http://opensource.org/licenses/mit-license.php)
